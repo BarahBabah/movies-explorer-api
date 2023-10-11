@@ -36,7 +36,7 @@
 2. Перейдите в каталог проекта:
 
     ```bash
-    cd movies-explorer-frontend
+    cd movies-explorer-api
     ```
 
 3. Установите зависимости:
