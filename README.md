@@ -30,7 +30,7 @@
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your-username/movies-explorer-frontend.git
+    git clone https://github.com/BarahBabah/movies-explorer-api
     ```
 
 2. Перейдите в каталог проекта:
